@@ -1,0 +1,1 @@
+conky -c /home/badyanchik/.config/conky/Openbox-Matrix-sysinfo.conkyrc & sleep 0.5
